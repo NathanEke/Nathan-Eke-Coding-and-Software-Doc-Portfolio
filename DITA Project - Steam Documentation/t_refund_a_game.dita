@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="refund_a_game">
+    <title>Refund a Game</title>
+    <shortdesc>If you regret a purchase, you may request a refund.</shortdesc>
+    <taskbody><context>If you refund a game within 14 days of purchase and have less than 2 hours of total
+            playtime, your refund will be automatically approved. All other refunds may be declined
+            depending on reasoning. Refund requests are typically processed within 24
+            hours.</context>
+        <steps id="steps_shs_5py_v1c">
+            <step>
+                <cmd>In the top right corner, click your username.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Account details</uicontrol>in the dropdown menu.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>View purchase history</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select the purchase you'd like to refund from the list of options.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>I would like a refund</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>I'd like to request a refund</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select which payment method you'd like your refund to go to.</cmd>
+                <substeps id="substeps_rsz_4ry_v1c">
+                    <substep>
+                        <cmd>Optionally, type in the <uicontrol>Notes</uicontrol> text box the exact
+                            reason for your refund request.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Submit request</uicontrol>.</cmd>
+            </step>
+        </steps></taskbody>
+    <related-links>
+        <link href="t_buy_a_game.dita"/>
+    </related-links>
+</task>

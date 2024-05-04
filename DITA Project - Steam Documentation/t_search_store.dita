@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="search_store">
+    <title>Search Store</title>
+    <shortdesc>Search the <uicontrol>Steam Store</uicontrol> to find the perfect game that fits your
+        interests.</shortdesc>
+    <taskbody>
+        <steps id="steps_nkx_3v5_v1c">
+            <step>
+                <cmd>From the <uicontrol>Store</uicontrol> page, <ph platform="Desktop">click</ph>
+                    <ph platform="Mobile">tap</ph> the search bar <ph platform="Mobile">at the top
+                        of the screen.</ph><ph platform="Desktop">in the top right
+                    corner.</ph></cmd>
+            </step>
+            <step>
+                <cmd>Type the name of the game or genre of your choice and <ph platform="Mobile">tap
+                            <uicontrol>Search</uicontrol></ph>
+                    <ph platform="Desktop">press Enter</ph>. A list of games will appear. </cmd>
+            </step>
+            <step>
+                <cmd>Scroll down the list until you find a game you like. The list will autopopulate
+                    with new results once you reach the bottom.</cmd>
+            </step>
+        </steps></taskbody>
+    <related-links>
+        <link href="r_sort_and_filter_store_search.dita"/>
+    </related-links>
+</task>

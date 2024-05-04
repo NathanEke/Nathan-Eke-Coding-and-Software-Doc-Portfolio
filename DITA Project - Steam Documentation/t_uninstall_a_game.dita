@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="uninstall_a_game">
+    <title>Uninstall a Game</title>
+    <shortdesc>If you no longer play a game and want to remove it from your computer, you can
+        uninstall it.</shortdesc>
+    <taskbody>
+        <steps id="steps_gsc_pg4_w1c">
+            <step>
+                <cmd>In the left panel, right-click the game you'd like to uninstall.</cmd>
+            </step>
+            <step>
+                <cmd>Hover over <uicontrol>Manage</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Uninstall</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Read the warning pop-up and, if you wish to continue, click
+                        <uicontrol>Uninstall</uicontrol> again. The process may take a few seconds
+                    to complete depending on the size of the game.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="t_install_a_game.dita"/>
+    </related-links>
+</task>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="wishlistagame">
+    <title>Wishlist a Game</title>
+    <shortdesc>If you want to keep an eye on a game, but don't yet want to buy it, you can use the
+        wishlist feature.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The wishlist will alert you whenever a game on your list goes on sale. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Navigate to the game's store page.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Add to your wishlist</uicontrol> under the preview
+                    panel.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

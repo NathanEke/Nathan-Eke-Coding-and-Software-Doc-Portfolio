@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_a_collection">
+    <title>Manage Collections</title>
+    <shortdesc>Collections let you organize games in a manner of your choosing.</shortdesc>
+    <taskbody>
+        <steps id="steps_i24_kql_w1c">
+            <step>
+                <cmd>On the left panel, right-click a game you want in a collection.</cmd>
+            </step>
+            <step>
+                <cmd>Hover over <uicontrol>Add to</uicontrol> and select <uicontrol>+ New
+                        collection</uicontrol>. </cmd>
+            </step>
+            <step>
+                <cmd>Type in a a name for the collection. </cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Create Collection</uicontrol>. A panel will open on the right
+                    displaying the new collection you've created with the game you chose. There will
+                    also be a new folder on the left with the collection name and game under
+                    it.</cmd>
+            </step>
+            <step>
+                <cmd>Click games listed on the left and drag them into the collection folder to add
+                    more items to that collection.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="t_manage_favorites.dita"/>
+    </related-links>
+</task>

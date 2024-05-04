@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="steamstore">
+    <title>Steam Store</title>
+    <shortdesc>The <uicontrol>Steam Store</uicontrol> page is the primary hub where users can find
+        and buy the latest games.</shortdesc>
+    <conbody>
+        <p>The <uicontrol>Steam Store</uicontrol> homepage offers game suggestions based on general
+            popularity and a user's <uicontrol>Library</uicontrol>. The categories at the top curate
+            games based on genre or features. The search bar at the top right allows users to find a
+            specific title among the thousands available on Steam.<image
+                href="images/Screenshot%202024-03-26%20211033.png" width="1000" height="500"
+                id="image_nhb_mln_w1c" placement="break" align="left"/></p>
+    </conbody>
+</concept>

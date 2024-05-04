@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="add_funds_to_steam_wallet">
+    <title>Add Funds to Steam Wallet</title>
+    <shortdesc>Add funds to your <uicontrol>Steam Wallet</uicontrol> to use it as an alternate
+        payment option.</shortdesc>
+    <taskbody>
+        <steps id="steps_lnz_b2x_v1c">
+            <step>
+                <cmd>In the top right corner, click your username.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>View my wallet</uicontrol>in the dropdown menu.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Add Funds</uicontrol> next to your preferred fund level.</cmd>
+            </step>
+            <step>
+                <cmd>Click the dropdown and choose the payment method that you'd like to use:</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>If using Paypal, click <uicontrol>Continue</uicontrol> and sign into
+                            your Paypal account.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>If using a credit card, fill in your credit card information then press
+                                <uicontrol>Continue</uicontrol>.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Check the <uicontrol>I agree to the terms of the Steam Subscriber
+                        Agreement</uicontrol> check box.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Purchase</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="manage_favorites">
+    <title>Manage Favorites</title>
+    <shortdesc>Your favorites list can be used to prominently display games that you are
+        particularly fond of.</shortdesc>
+    <taskbody>
+        <context id="context_x5w_gg4_w1c">Favorites will always be displayed at the top of your
+            Library and displayed on your home page.</context>
+        <steps id="steps_gnk_zxn_w1c">
+            <step>
+                <cmd>In the left panel, right click the game you'd like to add to your
+                    favorites.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Add to Favorites</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="t_manage_collections.dita"/>
+    </related-links>
+</task>
