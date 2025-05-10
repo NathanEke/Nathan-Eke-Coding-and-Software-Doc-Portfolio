@@ -1,0 +1,1 @@
+FOOTSIES is a simple 2D ground-based fighting game that both new and experienced players can pick up and enjoy right away. Featuring online battle mode with rollback netcode, implemented using GGPO open-source codes.

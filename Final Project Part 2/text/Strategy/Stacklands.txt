@@ -1,0 +1,1 @@
+Stacklands is a village builder where you stack cards to collect food, build structures, and fight creatures. ðŸƒ For example, dragging a Villager card on top of a Berry Bush card will spawn Berry cards which the villagers can eat to survive. ðŸƒ Play your cards right and expand your village!

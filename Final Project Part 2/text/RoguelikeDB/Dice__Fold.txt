@@ -1,0 +1,1 @@
+A turn-based dungeon crawler where your only way of attacking the enemy is by rolling dice. Roll dice to damage enemy cards to FOLD. Inspired by classic Solitaire, in a top-down table and enemies made out of cards, try to beat the dungeon with 35 unique classes. Build your deck, kill monsters.

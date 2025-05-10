@@ -1,0 +1,1 @@
+KLETKA is a co-op (up to 4 players in demo) horror game about going down in an elevator that is trying to eat you. Feed the elevator, avoid traps and monsters and descend deeper.

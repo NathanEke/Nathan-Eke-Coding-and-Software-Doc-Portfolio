@@ -1,0 +1,1 @@
+A sandbox fighting game with built-in creation tools to create characters and stages. Animate pixel art characters using our 3D pixel art rotation technology, then battle with up to 8 players! Use our tools to export sprites for your own projects.

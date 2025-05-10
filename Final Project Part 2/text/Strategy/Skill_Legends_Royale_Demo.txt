@@ -1,0 +1,1 @@
+This is a free multiplayer PvP strategy game that incorporates rogue-like and auto chess elements, players need to equip their auto-battling heroes with the right treasures and skills to ultimately defeat all other players and become the champion.

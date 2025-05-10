@@ -1,0 +1,1 @@
+Pawnbarian is a quick-playing, turn-based puzzle roguelike. Play cards to move your hero like a chess piece, and conquer challenging dungeons full of cunning monsters!

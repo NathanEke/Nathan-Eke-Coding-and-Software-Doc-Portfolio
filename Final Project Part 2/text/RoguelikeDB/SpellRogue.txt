@@ -1,0 +1,1 @@
+SpellRogue is a turn-based, deckbuilding roguelike where you cast powerful spells using your Mana Dice, gain legendary artifacts, upgrade your spells and experiment with potent combinations to annihilate the Voidwalkers corrupting the world.

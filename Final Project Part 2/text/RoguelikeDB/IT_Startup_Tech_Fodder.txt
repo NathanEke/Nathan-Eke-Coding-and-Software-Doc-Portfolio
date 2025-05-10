@@ -1,0 +1,1 @@
+A dev themed Roguelike Deckbuilder. Play Developer Cards, upgrade them and watch out for burnout! Sabotage your opponents or steal their Developers. Craft a unique deck and squeeze out your employees to win the next Project Battle!
